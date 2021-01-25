@@ -28,7 +28,7 @@ desarrollo partner de la implementación ?**
 
 Una fabrica de desarrollo que ya haya trabajado con la compañia y cuyos resultados hayan sido satisfactorios, además que tenga experiencia en el desarrollo de servicios financieros y/o desarrollando servicios poara alguna FinTech latinoamericana.
 
-** Desarrollar un servicio en el backend de conversión de criptomonedas **
+**Desarrollar un servicio en el backend de conversión de criptomonedas**
 
 El codigo fuente de este servicio se encuentra [aquí](https://github.com/Joldiazch/conversion-de-criptomonedas.), o bien acontinuacion hay un vistazo del codigo:
  
