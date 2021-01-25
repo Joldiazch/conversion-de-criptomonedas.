@@ -12,7 +12,7 @@ Proceso de seleccion Servicios Financieros Confama
 
 ![](https://i.ibb.co/4ThRxXb/Diagrama-Arquitectura-Actual-Page-2.png)
 
-** ¿ Que componentes adicionales surgen en la arquitectura para lograr la entrega y el despliegue automáticos (DEVSECOPS) los desplegaría on-premise o en la nube ?, ¿porque? si es nube, en ¿cual nube?. Dependiendo del despliegue seleccionado especifique en donde se encuentra el código y que hacen los componentes para hacer posible el devsecops. **
+**¿ Que componentes adicionales surgen en la arquitectura para lograr la entrega y el despliegue automáticos (DEVSECOPS) los desplegaría on-premise o en la nube ?, ¿porque? si es nube, en ¿cual nube?. Dependiendo del despliegue seleccionado especifique en donde se encuentra el código y que hacen los componentes para hacer posible el devsecops.**
 
 La arquitectura propuesta es una arquitectura de micro servicios donde cada uno de estos servicios es independiente del otro es decir, si por alguna razon el servicio encargado de la viculacioón de nuevos clientes falla, los demás micro servicios como el de administracion de cartera seguirá funcionando sin ningun inconveniente.
 
@@ -73,4 +73,4 @@ if __name__ == "__main__":
 
 
 
-###End
+### End
